@@ -1,1 +1,1 @@
-First line of code changed this line of code to make conflicts 
+Change this line of code to make a conflicts
