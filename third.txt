@@ -1,1 +1,1 @@
-Third file code 
+merge conflicts resolve
